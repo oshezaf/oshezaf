@@ -4,6 +4,6 @@ Information security products are different than any other software product. Cre
 
 I have spent my career at the junction of these three disciplines: combining a background in security research, product definition, and extensive customer-facing activity, enabling me to create security products that best reduce the real and perceived cyber risk.
 
-I am currently a principal product manager working on Azure Sentinel at Microsoft.
+I am currently a principal product manager working on Microsoft Sentinel at Microsoft.
 
-My CV can be found on [LinkedIn](https://web.archive.org/web/20130531210646/http://www.linkedin.com/in/oshezaf).
+My CV can be found on [LinkedIn](https://www.linkedin.com/in/oshezaf/).
